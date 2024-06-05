@@ -89,10 +89,10 @@
 	},
 	{
 		"value": "memory"
-        },		
+        },
 	{
 		"value": "fronto-parietal network"
-        },		
+        },
 	{
 		"value": "theta oscillation"
         }
@@ -177,6 +177,14 @@
         		}
 			]
     	},
+		{
+			"category": "downloadOptions",
+			"values": [
+				{
+					"value": "offsite"
+				}
+			]
+		},
         {
             "category": "origin_country",
             "values": [
