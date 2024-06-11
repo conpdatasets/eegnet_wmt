@@ -52,7 +52,7 @@
                 "landingPage" : "https://portal.cbrain.mcgill.ca/userfiles/5155556",
 				"authorizations": [
 					{
-						"value": "private"
+						"value": "registered"
 					}
 				]
             }
